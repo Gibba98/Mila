@@ -1,0 +1,27 @@
+@media print {
+    #titolo{
+       background-color: brown; 
+    }
+}
+
+
+
+#titolo
+{ background-color: rgb(8, 189, 186);
+    text-align: center;
+    font-style: italic;
+    color: blanchedalmond;
+    padding: 0px;
+}
+.intestazione{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#colonnauno
+{ padding: 10px;}
+
+#testouno{
+    font-family: sans-serif;
+    text-align: center;
+    color: slategray;
+}
